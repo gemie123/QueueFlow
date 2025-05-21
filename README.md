@@ -23,11 +23,14 @@ Targeted SQL queries addressing specific/relevant questions can be found here
 
 
 
+
 # Data Structure & Initial Checks
 
 The  main database structure, as seen below consists of a single table: with a total row count of 6095 records. A description of each table is as follows:
   
   ![image](https://github.com/user-attachments/assets/e73bc585-0d95-41c1-96ab-c17668a5548f)
+
+
 
 
 
@@ -115,8 +118,8 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Data Gaps (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
   
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+* Underreporting  and Misreporting (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
   
 * Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)

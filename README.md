@@ -7,10 +7,11 @@ Insights and recommendations emerge from these key areas:
 
 - **Geographic Area Focus:**  Evaluation of primary locations of these attacks inlucing, country, city and areas focusing on the time of the day these attacks occured offering a better understanding of peak times for such attacks
 
-
 - **High Risk Activities:**  An analysis of potentially risky behaviours and activities that may have contributed to the incidents and an evaluation of their influence/impact on the likelihood of attacks and understanding their impact on it.
 
-- **Regional Comparison:** : A comparison of attack patterns across different regions
+- **Key Shark species:** An analysis of the shark species dominating the attacks
+
+- **Regional Comparison:**  A comparison of attack patterns across different regions
 
 For a dynamic exploration of the data, an interactive PowerBI dashboard can be found here [[link](https://app.powerbi.com/view?r=eyJrIjoiOGEzZGFiYmMtYjIxYy00N2IwLWJjM2UtZjliZjRmMTdjOTg4IiwidCI6ImU4Y2RiYjFmLWYwNzItNDk5Mi05ZTYzLWNiZDEzMDM0OTBmNSIsImMiOjh9)].
 
@@ -24,13 +25,9 @@ Targeted SQL queries addressing specific/relevant questions can be found here
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
+The  main database structure, as seen below consists of a single table: with a total row count of 6095 records. A description of each table is as follows:
+  
+  ![image](https://github.com/user-attachments/assets/e73bc585-0d95-41c1-96ab-c17668a5548f)
 
 
 

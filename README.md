@@ -1,23 +1,24 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Global shark attacks, recorded from as early as 1868 through to 2017, have increased public fear and apprehension towards sharks , especially amongst tourists, surfers and beach lovers.
 
-Insights and recommendations are provided on the following key areas:
+There is a significant amount of data regarding locations, dates, information on the victims and the circumstances surrounding the occurrence, such as the victim's activities before the attack. This project carefully analyses the data to reveal critical insights that will improve coastal safety measures and educate the public on this matter to safely enjoy the ocean.
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+Insights and recommendations emerge from these key areas:
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+- **Geographic Area Focus:**  Evaluation of primary locations of these attacks inlucing, country, city and areas focusing on the time of the day these attacks occured offering a better understanding of peak times for such attacks
 
-Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+- **High Risk Activities:**  An analysis of potentially risky behaviours and activities that may have contributed to the incidents and an evaluation of their influence/impact on the likelihood of attacks and understanding their impact on it.
+
+- **Regional Comparison:** : A comparison of attack patterns across different regions
+
+For a dynamic exploration of the data, an interactive PowerBI dashboard can be found here [[link](https://app.powerbi.com/view?r=eyJrIjoiOGEzZGFiYmMtYjIxYy00N2IwLWJjM2UtZjliZjRmMTdjOTg4IiwidCI6ImU4Y2RiYjFmLWYwNzItNDk5Mi05ZTYzLWNiZDEzMDM0OTBmNSIsImMiOjh9)].
+
+The SQL queries used to inspect and perform quality checks can be found here
+
+The SQL queries used to clean, organise, and prepare data for the dashboard can be found here.
+Targeted SQL queries addressing specific/relevant questions can be found here
+
 
 
 

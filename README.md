@@ -1,11 +1,11 @@
 # Project Background
-Global shark attacks, recorded from as early as 1868 through to 2017, have increased public fear and apprehension towards sharks , especially amongst tourists, surfers and beach lovers.
+Global shark attacks, recorded from as early as 1868 through to 2017, have increased public fear and apprehension towards sharks, especially amongst tourists, surfers and beach lovers.
 
 There is a significant amount of data regarding locations, dates, information on the victims and the circumstances surrounding the occurrence, such as the victim's activities before the attack. This project carefully analyses the data to reveal critical insights that will improve coastal safety measures and educate the public on this matter to safely enjoy the ocean.
 
 Insights and recommendations emerge from these key areas:
 
-- **Geographic Area Focus:**  Evaluation of primary locations of these attacks inlucing, country, city and areas focusing on the time of the day these attacks occured offering a better understanding of peak times for such attacks
+- **Geographic Area Focus:**  Evaluation of primary locations of these attacks, including country, city and areas, focusing on the time of day these attacks occurred, offering a better understanding of peak times for such attacks
 
 - **High Risk Activities:**  An analysis of potentially risky behaviours and activities that may have contributed to the incidents and an evaluation of their influence/impact on the likelihood of attacks and understanding their impact on it.
 
@@ -13,12 +13,9 @@ Insights and recommendations emerge from these key areas:
 
 - **Regional Comparison:**  A comparison of attack patterns across different regions
 
-For a dynamic exploration of the data, an interactive PowerBI dashboard can be found here [[link](https://app.powerbi.com/view?r=eyJrIjoiOGEzZGFiYmMtYjIxYy00N2IwLWJjM2UtZjliZjRmMTdjOTg4IiwidCI6ImU4Y2RiYjFmLWYwNzItNDk5Mi05ZTYzLWNiZDEzMDM0OTBmNSIsImMiOjh9)].
+For a dynamic exploration of the data, an interactive PowerBI dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiOGEzZGFiYmMtYjIxYy00N2IwLWJjM2UtZjliZjRmMTdjOTg4IiwidCI6ImU4Y2RiYjFmLWYwNzItNDk5Mi05ZTYzLWNiZDEzMDM0OTBmNSIsImMiOjh9)
 
-The SQL queries used to inspect and perform quality checks can be found here
-
-The SQL queries used to clean, organise, and prepare data for the dashboard can be found here.
-Targeted SQL queries addressing specific/relevant questions can be found here
+The queries used to clean, organise, and prepare data for the dashboard can be found [here](https://docs.google.com/document/d/1s1mA_NPUWMitHRODJC-xTtIqo-Cv3_e7-Z4WVrczu70/edit?usp=sharing)
 
 
 
@@ -26,7 +23,7 @@ Targeted SQL queries addressing specific/relevant questions can be found here
 
 # Data Structure & Initial Checks
 
-The  main database structure, as seen below consists of a single table: with a total row count of 6095 records. A description of each table is as follows:
+The  main database structure, as seen below, consists of a single table with a total row count of 6095 records. A description of each table is as follows:
   
   ![image](https://github.com/user-attachments/assets/e73bc585-0d95-41c1-96ab-c17668a5548f)
 
@@ -38,14 +35,22 @@ The  main database structure, as seen below consists of a single table: with a t
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Shark attacks remained fairly constant between 1990 and 2016. The year 2015 recorded the highest number of shark attacks. There was a noticeable decline in 2017, and it is predicted to continue declining over the coming years. This prediction is broadly linked to increased awareness, better human behaviours around water and the changes caused by the recent pandemic in 2020.  The USA accounted for 35% of these incidents, with Florida as the area with the most attacks worldwide. Surfers and swimmers made up 30% of the victims, and about 15% of the attacks happened during surfing activities. 
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+The following sections will look into other contributing factors and emphasise areas for improvement.
+
+Below is the overview page from the PowerBl dashboard, and more examples are included throughout the report:
+
+![image](https://github.com/user-attachments/assets/9a71af24-1e12-4ef4-a284-6b5f9bfcc5d2)
+
+
+
+
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Geographic Area Focus:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -58,7 +63,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 1]
 
 
-### Category 2:
+### High Risk Activities:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -71,7 +76,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Key Shark Species:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -84,7 +89,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Regional Comparison:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   

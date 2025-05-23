@@ -9,7 +9,7 @@ Insights and recommendations emerge from these key areas:
 
 - **High Risk Activities:**  An analysis of potentially risky behaviours and activities that may have contributed to the incidents and an evaluation of their influence/impact on the likelihood of attacks and understanding their impact on it.
 
-- **Key Shark species:** An analysis of the shark species dominating the attacks
+- **Key Shark Species:** An analysis of the shark species dominating the attacks
 
 - **Regional Comparison:**  A comparison of attack patterns across different regions
 
@@ -52,79 +52,73 @@ Below is the overview page from the PowerBl dashboard, and more examples are inc
 # Insights Deep Dive
 ### Geographic Area Focus:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Where and When Do Shark Attacks Happen and Occur.**
 
+Shark attacks are most common in countries like the USA(35%), Australia(22%) and South Africa (9%).
+  
+The Florida area stands out as having the highest number of attacks globally 1015(16%) , with particularly affected locations like new smyrna beach, daytona beach, ponce inlet, cocoa beach and florida keys. 
+
+Another hotspot is New South Wales Australia  which recorded 476(7.8%) of attacks especially in locations like melbourne beach.
+
+Most shark attacks occured in the afternoons. about 22%(1340) of all attacks took place in the afternoons, while 15% occurred in the mornings. The least amount of attacks happen at night, with only about 2%(118).
+  
 [Visualization specific to category 1]
 
 
 ### High Risk Activities:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **What Risky Activities.**
+
+Swimming and surfing are the activities associated with 30%(1813) of all shark attacks.
+
+Surfers, in particular, are at higher risk because of  prolonged exposure to deeper parts of the water, which can lead to higher risk of major and fatal injuries if an attack occurs.  
 
 [Visualization specific to category 2]
 
 
 ### Key Shark Species:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Shark Species Involved.**
+
+In the shark species category, White sharks is responsible for more than 10% (623) of these attacks followed by the tiger sharks at about 4%.
+
+The white sharks dominated these attacks at anytime of the day and caused major and fatal injuries.
+
 
 [Visualization specific to category 3]
 
-
-### Regional Comparison:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
 
 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, the following recommendations have been provided: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Majority of the attacks occured in the afternoon and others in the morning which aligns with the peak times people visits the beach. Increasing staffing and safety personnels around these peak times will help to control and minimise situations that causes these attacks.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Potential Fatal attacks can be likely reduced during these attacks with quick medical assistance.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Partnering with communities to educate surfers, swimmers and beachgoers on about safe behaviors like avoiding activites that might provoke sharks to attack or mislead them to think an object is a prey will help lower the chances of shark attacks. 
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Performing activities in pairs can also help deter sharks from attacking when compared to activites performed isolated.
   
 
 
-# Assumptions and Caveats:
+# Caveats and Assumptions:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Data Gaps (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Data Limitations and Gaps
+
+The data is not perfect as there are so many null fields, data that is not a 100% clean and accurate. 
+The data is not perfect. There are gaps in the data and many missing details. It is not a 100% clean and accurate. 
+
+The current and future predictions of shark attacks were made based on real events that occured across the world like the global pandemic.
   
-* Underreporting  and Misreporting (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+* Underreporting  and Misreporting
+
+Several cases lacked sufficent detial for proper classification, especially in the years falling below 2010 and also in developing countries, which means some incidents may not be officially accounted for.
   
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Species Misidentification
+
+ Several cases involved inaccurately naming and blaming a type of shark due to the time of the incident like night time and the stressful circumstances during the attacks making it difficult to correctly identify the shark.

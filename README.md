@@ -1,17 +1,19 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
 
+# Client Background
 
+QueueFlow is a US-based SaaS company that provides a cloud-based software platform to a growing customer base.
 
+QueueFlow serves approximately 35,000 active customers and handled over 120,000 inbound customer support calls over the past five months. These calls span multiple support queues corresponding to different issue types and customer tiers, each governed by defined service-level agreements (SLAs). The available data includes previously underutilized detailed call logs, agent staffing schedules, queue configurations, and post-call customer satisfaction surveys. The objective of this analysis is to identify operational risks driven by demand variability and to provide data-driven recommendations to improve service reliability and efficiency.
 
-# Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Reporting to the Head of Operations, this analysis focuses on insights across the following key areas:
 
-Insights and recommendations are provided on the following key areas:
+North Star Metrics
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+Customer Experience Outcomes – Analyzing wait times, abandonment rates, and CSAT across queues, customer tiers, and issue categories to understand how operational performance impacts customer satisfaction.
+
+Demand & Capacity Health – Evaluating call inflow, throughput, and capacity risk to assess whether operational resources are sufficient to meet demand.
+
+Service Quality & Agent Effectiveness – Measuring agent productivity and service quality using average handle time, utilization, occupancy, and first-contact resolution to ensure efficient and sustainable service delivery.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 

@@ -7,15 +7,13 @@ QueueFlow serves approximately 35,000 active customers and handled over 120,000 
 
 Reporting to the Head of Operations, this analysis focuses on insights across the following key areas:
 
-## North Star Metrics
+### North Star Metrics
 
-Customer Experience Outcomes – Analyzing wait times, abandonment rates, and CSAT across queues, customer tiers, and issue categories to understand how operational performance impacts customer satisfaction.
+**Customer Experience Outcomes** – Analyzing wait times, abandonment rates, and CSAT across queues, customer tiers, and issue categories to understand how operational performance impacts customer satisfaction.
 
-Demand & Capacity Health – Evaluating call inflow, throughput, and capacity risk to assess whether operational resources are sufficient to meet demand.
+**Service Quality & Agent Effectiveness** – Measuring agent productivity and service quality using average handle time, utilization, occupancy, and first-contact resolution to ensure efficient and sustainable service delivery.
 
-Service Quality & Agent Effectiveness – Measuring agent productivity and service quality using average handle time, utilization, occupancy, and first-contact resolution to ensure efficient and sustainable service delivery.
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+**Demand & Capacity Health** – Evaluating call inflow, throughput, and capacity risk to assess whether operational resources are sufficient to meet demand.
 
 Targed SQL queries regarding various business questions can be found here [link].
 
@@ -46,9 +44,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Category 1:
+### Customer Experience Outcomes:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **CSAT Peaks During Midday Low-Friction Periods
+ 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   

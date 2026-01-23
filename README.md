@@ -7,7 +7,7 @@ QueueFlow serves approximately 35,000 active customers and handled over 120,000 
 
 Reporting to the Head of Operations, this analysis focuses on insights across the following key areas:
 
-North Star Metrics
+## North Star Metrics
 
 Customer Experience Outcomes – Analyzing wait times, abandonment rates, and CSAT across queues, customer tiers, and issue categories to understand how operational performance impacts customer satisfaction.
 

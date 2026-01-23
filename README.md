@@ -46,10 +46,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Customer Experience Outcomes:
 
-1. CSAT Peaks During Midday Low-Friction Periods
+#### 1. CSAT Peaks During Midday Low-Friction Periods
 - Average CSAT reaches its highest levels around midday (≈3.75–3.80), coinciding with the lowest average wait times(≈30–40 seconds), suggesting that reduced service friction is a key driver of improved customer experience.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+#### 2. Clear Prioritization of VIP Customers Drives Tier-Level CSAT Gaps
+- Customer satisfaction varies meaningfully by tier: VIP customers maintain a consistently higher CSAT across all operating hours (≈3.8–4.0), while Business and Standard tiers exhibit lower and more volatile satisfaction levels (≈3.4–3.8).
+-  VIP customers experience consistently lower and more stable wait times and abandonment rates, while Business and Standard tiers exhibit greater volatility and approximately 2× higher wait times, indicating that identical operational conditions do not affect customer segments equally.
+
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   

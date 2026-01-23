@@ -46,8 +46,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Customer Experience Outcomes:
 
-* 1.CSAT Peaks During Midday Low-Friction Periods
-* ** Average CSAT reaches its highest levels around midday (≈3.75–3.80), coinciding with the lowest average wait times(≈30–40 seconds), suggesting that reduced service friction is a key driver of improved customer experience.
+1. CSAT Peaks During Midday Low-Friction Periods
+- Average CSAT reaches its highest levels around midday (≈3.75–3.80), coinciding with the lowest average wait times(≈30–40 seconds), suggesting that reduced service friction is a key driver of improved customer experience.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   

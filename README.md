@@ -32,7 +32,6 @@ The companies main database structure as seen below consists of four tables: tab
 [Entity Relationship Diagram here]
 
 
-
 # Executive Summary
 
 ### Overview of Findings
@@ -42,8 +41,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
-
 # Insights Deep Dive
+<div style="border:1px solid #e5e7eb; padding:16px; border-radius:6px;">
 ### Customer Experience Outcomes:
 
 #### 1. CSAT Peaks During Midday Low-Friction Periods
@@ -57,11 +56,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 #### 3. Issue Complexity Drives Lower CSAT in Technical and Billing Queues
 - At similar waiting times, Technical and Billing queues consistently show lower CSAT than General inquiries.
 - This suggests that wait times are not the only drivers of CSAT, but also points to issue complexity that drives this. 
+</div>
 
-[Visualization specific to category 1]
-
-
-### Category 2:
+### Service Quality & Agent Effectiveness:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   

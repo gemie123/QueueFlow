@@ -50,13 +50,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 - Average CSAT reaches its highest levels around midday (≈3.75–3.80), coinciding with the lowest average wait times(≈30–40 seconds), suggesting that reduced service friction is a key driver of improved customer experience.
 
 #### 2. Clear Prioritization of VIP Customers Drives Tier-Level CSAT Gaps
-- Customer satisfaction varies meaningfully by tier: VIP customers maintain a consistently higher CSAT across all operating hours (≈3.8–4.0), while Business and Standard tiers exhibit lower and more volatile satisfaction levels (≈3.4–3.8).
--  VIP customers experience consistently lower and more stable wait times and abandonment rates, while Business and Standard tiers exhibit greater volatility and approximately 2× higher wait times, indicating that identical operational conditions do not affect customer segments equally.
+- CSAT varies clearly by customer tier: VIP customers maintain elevated scores across all hours (≈3.8–4.0) with limited fluctuation, while Business and Standard tiers show lower CSAT levels (≈3.4–3.8) and larger hour-to-hour variation.
+-  Wait times show a similar tier-based pattern: VIP customers experience consistently lower and more stable wait times (≈10–60 seconds), while Business and Standard tiers face longer waits with greater variability (≈30–120 seconds), particularly during operational fluctuations. 
+- This suggests that prioritization policies buffer VIP customers from operational volatility, while other segments absorb a disproportionate share of system-level congestion.
 
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+#### 3. Issue Complexity Drives Lower CSAT in Technical and Billing Queues
+- At similar waiting times, Technical and Billing queues consistently show lower CSAT than General inquiries.
+- This suggests that wait times are not the only drivers of CSAT, but also points to issue complexity that drives this. 
 
 [Visualization specific to category 1]
 

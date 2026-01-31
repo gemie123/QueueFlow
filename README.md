@@ -9,7 +9,8 @@ Reporting to the Head of Operations, this analysis focuses on insights across th
 
 ### North Star Metrics
 
-**Customer Experience Outcomes** – Analyzing wait times, abandonment rates, and CSAT across queues, customer tiers, and issue categories to understand how operational performance impacts customer satisfaction.
+**Customer Experience Outcomes** – Analyzing wait times, abandonment rates, and CSAT across queues, customer tiers, and issue categories to understand how operational performance
+impacts customer satisfaction.
 
 **Service Quality & Agent Effectiveness** – Measuring agent productivity and service quality using average handle time, utilization, occupancy, and first-contact resolution to ensure efficient and sustainable service delivery.
 
@@ -44,11 +45,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Customer Experience Outcomes:
 #### 1. CSAT Peaks During Midday Low-Friction Periods
-- Average CSAT reaches its highest levels around midday (≈3.75–3.80), coinciding with the lowest average wait times(≈30–40 seconds), suggesting that reduced service friction is a key driver of improved customer experience.
+- CSAT scores reach their highest levels during standard service hours (≈3.70–3.80), coinciding with the lowest average wait times (≈25–30 seconds).
+- This suggests that reduced service friction is a key driver of improved customer experience.
 #### 2. Clear Prioritization of VIP Customers Drives Tier-Level CSAT Gaps
-- CSAT varies clearly by customer tier: VIP customers maintain elevated scores across all hours (≈3.8–4.0) with limited fluctuation, while Business and Standard tiers show lower CSAT levels (≈3.4–3.8) and larger hour-to-hour variation.
--  Wait times show a similar tier-based pattern: VIP customers experience consistently lower and more stable wait times (≈10–60 seconds), while Business and Standard tiers face longer waits with greater variability (≈30–120 seconds), particularly during operational fluctuations. 
-- This suggests that prioritization policies buffer VIP customers from operational volatility, while other segments absorb a disproportionate share of system-level congestion.
+- VIP customers maintain consistently higher and more stable CSAT across all hours (≈3.8–4.0), while Business and Standard tiers show lower scores and greater volatility (≈3.4–3.8).
+- VIPs experience  shorter and more stable waits (≈10–30s), while Standard and Business customers face longer and more variable wait times (≈25–60s).
+- Standard and Business experience ~1–1.5× larger during fluctuating periods,  indicating that VIP customers are less exposed to system-level volatility.
+- Because Business and Standard tiers drive most CSAT volatility, QueueFlow may need to focus on stabilizing experience for these groups to improve overall CSAT.
 #### 3. Issue Complexity Drives Lower CSAT in Technical and Billing Queues
 - At similar waiting times, Technical and Billing queues consistently show lower CSAT than General inquiries.
 - This suggests that wait times are not the only drivers of CSAT, but also points to issue complexity that drives this. 

@@ -42,7 +42,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-<div style="border:1px solid #e5e7eb; padding:16px; border-radius:6px;">
 ### Customer Experience Outcomes:
 
 #### 1. CSAT Peaks During Midday Low-Friction Periods

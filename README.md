@@ -57,7 +57,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 | | |
 |--|--|
-| <img src="images/1.png" width="400"> | <img src="images/2.png" width="400"> |
+| <img src="images/1.png" width="600"> | <img src="images/2.png" width="600"> |<img src="images/3.png" width="600">|
 
 ### Service Quality & Agent Effectiveness:
 #### 1. Inefficiency Is Concentrated in Bill and Tech Calls 

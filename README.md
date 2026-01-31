@@ -72,6 +72,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 - Categories such as Account Access, How-To, and Profile Update achieve FCR above 0.90 and maintain low repeat burden (≈0.09–0.10).
 - Low-FCR issues, especially in the billing category, generate disproportionate repeat workload,  pointing to resolution gaps within billing workflows.
 
+<img src="images/4.png" width="700">
+<img src="images/5.png" width="700">
+<img src="images/6.png" width="700">
 
 ### Demand & Capacity:
 #### 1. Throughput Scales with Hourly Arrivals

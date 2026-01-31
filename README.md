@@ -55,9 +55,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 #### 3. Issue Complexity Drives Lower CSAT in Technical and Billing Queues
 - Technical and Billing queues show persistently lower CSAT than General inquiries at similar wait times (~9–19) , indicating that issue complexity contributes to satisfaction gaps beyond service delays.
 
-| | |
-|--|--|
-| <img src="images/1.png" width="600"> | <img src="images/2.png" width="600"> |<img src="images/3.png" width="600">|
+<p align="center">
+  <img src="1.png" width="850">
+</p>
 
 ### Service Quality & Agent Effectiveness:
 #### 1. Inefficiency Is Concentrated in Bill and Tech Calls 

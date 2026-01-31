@@ -88,10 +88,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 - During peak hours, agent utilization rate clusters near capacity (≈0.85–0.95), frequently approaching or exceeding the 0.85 threshold, while average wait time remains stable and low.
 - Early morning and late evening hours show lower utilization of less than 0.5, yet wait times remain inconsistent and longer.
 
-
-
-
-
+<img src="images/7.png" width="700">
+<img src="images/8.png" width="700">
+<img src="images/9.png" width="700">
 
 
 

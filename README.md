@@ -1,11 +1,11 @@
 
 # Client Background
 
-QueueFlow is a US-based SaaS company that provides a cloud-based software platform to a growing customer base.
+**QueueFlow** is a US-based SaaS company that provides a cloud-based software platform to a growing customer base.
 
-QueueFlow serves approximately 35,000 active customers and handled over 120,000 inbound customer support calls over the past five months. These calls span multiple support queues corresponding to different issue types and customer tiers, each governed by defined service-level agreements (SLAs). The available data includes previously underutilized detailed call logs, agent staffing schedules, queue configurations, and post-call customer satisfaction surveys. The objective of this analysis is to identify operational risks driven by demand variability and to provide data-driven recommendations to improve service reliability and efficiency.
+QueueFlow serves approximately 35,000 active customers and handled over **90k inbound customer support calls** over the past six months. These calls span multiple support queues corresponding to different issue types and customer tiers, each governed by defined service-level agreements (SLAs). The available data includes previously underutilized detailed call logs, agent staffing schedules, queue configurations, and post-call customer satisfaction surveys. The objective of this analysis is to identify operational risks driven by demand variability and to provide data-driven recommendations to improve service reliability and efficiency.
 
-Reporting to the Head of Operations, this analysis focuses on insights across the following key areas:
+Reporting to the **Head of Operations**, this analysis focuses on insights across the following key areas:
 
 ### North Star Metrics
 
@@ -21,16 +21,11 @@ Targed SQL queries regarding various business questions can be found here [link]
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
 
-
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of four tables: call , agent, agent_shift, queue, csat a total row count of X records. A description of each table is as follows:
 
-[Entity Relationship Diagram here]
+
 
 
 # Executive Summary
@@ -108,14 +103,3 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
-
-
-# Assumptions and Caveats:
-
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)

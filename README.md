@@ -32,9 +32,7 @@ The companies main database structure as seen below consists of four tables: cal
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
-
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+During off-peak hours, wait times become longer and more inconsistent even though agent utilization is low and throughput keeps pace with arrivals, suggesting inefficiencies in staffing or skill coverage rather than a lack of capacity. Because VIP customers are prioritized, Business and Standard tiers absorb most system fluctuations and account for the majority of CSAT variability. Technical and Billing queues consistently show lower CSAT and FCR along with higher repeat rates, indicating that issue complexity and resolution challenges, not service speed alone, drive inefficiency.
 
 
 # Insights Deep Dive

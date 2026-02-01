@@ -91,10 +91,11 @@ During off-peak hours, wait times become longer and more inconsistent even thoug
 # Recommendations:
 
 Based on the insights and findings above, we would recommend the Head of Operations to consider the following: 
-**Introduce targeted buffering mechanisms (e.g., dynamic routing or temporary prioritization) for non-VIP tiers during high-variance hours, as these tiers drive the majority of overall CSAT fluctuations.**
+
+#### Introduce targeted buffering mechanisms (e.g., dynamic routing or temporary prioritization) for non-VIP tiers during high-variance hours, as these tiers drive the majority of overall CSAT fluctuations.
 - Business and Standard customers experience longer and more variable wait times (≈25–60s) than VIPs, with waits ~1–1.5× higher during volatile periods.
-**Standardize resolution paths for high repeat-rate Billing issues to reduce repeat workload and downstream congestion.**
+#### Standardize resolution paths for high repeat-rate Billing issues to reduce repeat workload and downstream congestion.**
 - Payment Failure, Invoice Failure, Billing Issue, and Refund are issues with the lowest FCR.
 - Payment Failure, Invoice Failure, Billing Issue have the highest mean resolution repeat rate overall.
-**Rebalance off-peak staffing and routing logic to reduce wait-time volatility during low-utilization hours, where delays stem from timing and assignment inefficiencies rather than capacity shortages.**
+#### Rebalance off-peak staffing and routing logic to reduce wait-time volatility during low-utilization hours, where delays stem from timing and assignment inefficiencies rather than capacity shortages.**
 - Agent utilization remains below 0.6 during non-peak hours, indicating that elevated wait times are not driven by insufficient capacity

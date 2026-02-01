@@ -90,8 +90,6 @@ During off-peak hours, wait times become longer and more inconsistent even thoug
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the Head of Operations to consider the following: 
-
 #### 1. Introduce targeted buffering mechanisms (e.g., dynamic routing or temporary prioritization) for non-VIP tiers during high-variance hours, as these tiers drive the majority of overall CSAT fluctuations.
 - Business and Standard customers experience longer and more variable wait times (≈25–60s) than VIPs, with waits ~1–1.5× higher during volatile periods.
 #### 2. Standardize resolution paths for high repeat-rate Billing issues to reduce repeat workload and downstream congestion.

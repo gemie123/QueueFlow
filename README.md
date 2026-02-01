@@ -34,7 +34,7 @@ The companies main database structure as seen below consists of four tables: cal
 During off-peak hours, wait times become longer and more inconsistent even though agent utilization is low and throughput keeps pace with arrivals, suggesting inefficiencies in staffing or skill coverage rather than a lack of capacity. Because VIP customers are prioritized, Business and Standard tiers absorb most system fluctuations and account for the majority of CSAT variability. Technical and Billing queues consistently show lower CSAT and FCR along with higher repeat rates, indicating that issue complexity and resolution challenges, not service speed alone, drive inefficiency.
 
 
-<img src="images/Exec_dash.png" width="800">
+<img src="images/Exec_dash_1.png" width="800">
 
 # Insights Deep Dive
 ### Customer Experience Outcomes:

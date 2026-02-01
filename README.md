@@ -24,7 +24,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 The companies main database structure as seen below consists of four tables: call , agent, agent_shift, queue, csat a total row count of X records. A description of each table is as follows:
 
-<img src="images/ERD.png" width="800">
+<img src="images/ERD.png" width="500">
 
 
 # Executive Summary
@@ -34,7 +34,7 @@ The companies main database structure as seen below consists of four tables: cal
 During off-peak hours, wait times become longer and more inconsistent even though agent utilization is low and throughput keeps pace with arrivals, suggesting inefficiencies in staffing or skill coverage rather than a lack of capacity. Because VIP customers are prioritized, Business and Standard tiers absorb most system fluctuations and account for the majority of CSAT variability. Technical and Billing queues consistently show lower CSAT and FCR along with higher repeat rates, indicating that issue complexity and resolution challenges, not service speed alone, drive inefficiency.
 
 
-<img src="images/Exec_dash.png" width="600">
+<img src="images/Exec_dash.png" width="800">
 
 # Insights Deep Dive
 ### Customer Experience Outcomes:

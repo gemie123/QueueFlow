@@ -16,7 +16,6 @@ impacts customer satisfaction.
 
 **Demand & Capacity Health** – Evaluating call inflow, throughput, and capacity risk to assess whether operational resources are sufficient to meet demand.
 
-Targed SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
@@ -34,6 +33,8 @@ The companies main database structure as seen below consists of four tables: cal
 
 During off-peak hours, wait times become longer and more inconsistent even though agent utilization is low and throughput keeps pace with arrivals, suggesting inefficiencies in staffing or skill coverage rather than a lack of capacity. Because VIP customers are prioritized, Business and Standard tiers absorb most system fluctuations and account for the majority of CSAT variability. Technical and Billing queues consistently show lower CSAT and FCR along with higher repeat rates, indicating that issue complexity and resolution challenges, not service speed alone, drive inefficiency.
 
+
+<img src="images/Exec_dash.png" width="600">
 
 # Insights Deep Dive
 ### Customer Experience Outcomes:
@@ -69,7 +70,7 @@ During off-peak hours, wait times become longer and more inconsistent even thoug
 <img src="images/5.png" width="700">
 <img src="images/6.png" width="700">
 
-### Demand & Capacity:
+### Demand & Capacity Hea;th:
 #### 1. Throughput Scales with Hourly Arrivals
 - Throughput and Arrivals have the same intraday, suggesting that operational resources are scaled with arrival inputs. 
 - Consistent gaps of 2–5 calls per hour suggests the system is structurally able to meet demand at scale, with a small, predictable level of call loss rather than episodic congestion.

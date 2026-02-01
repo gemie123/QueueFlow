@@ -70,7 +70,7 @@ During off-peak hours, wait times become longer and more inconsistent even thoug
 <img src="images/5.png" width="700">
 <img src="images/6.png" width="700">
 
-### Demand & Capacity Hea;th:
+### Demand & Capacity Health:
 #### 1. Throughput Scales with Hourly Arrivals
 - Throughput and Arrivals have the same intraday, suggesting that operational resources are scaled with arrival inputs. 
 - Consistent gaps of 2–5 calls per hour suggests the system is structurally able to meet demand at scale, with a small, predictable level of call loss rather than episodic congestion.

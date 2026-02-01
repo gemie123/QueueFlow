@@ -24,7 +24,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 The companies main database structure as seen below consists of four tables: call , agent, agent_shift, queue, csat a total row count of X records. A description of each table is as follows:
 
-<img src="images/ERD.png" width="600">
+<img src="images/ERD.png" width="800">
 
 
 # Executive Summary
